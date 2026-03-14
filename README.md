@@ -1,6 +1,7 @@
 # Improving Retrieval for RAG-based Question Answering Models on Financial Documents
 
-This repository contains the research code for Improving Retrieval for RAG-based Question Answering Models on Financial Documents Paper
+This repository contains the research code for Improving Retrieval for RAG-based Question Answering Models on Financial Documents Paper on arxiv:
+https://arxiv.org/abs/2404.07221
 
 ## Abstract
 
